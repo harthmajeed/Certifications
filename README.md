@@ -1,2 +1,2 @@
 # Certifications
-A repository to store all my certifications.
+A repository of all my certifications.
